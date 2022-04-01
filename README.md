@@ -58,6 +58,7 @@ plt.show()
 
 ## Output:
 ![github](kothi1.png)
+
 ![github](kothi2.png)
 
 
